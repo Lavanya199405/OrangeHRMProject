@@ -1,0 +1,155 @@
+2026-10-27 09:58:23 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-27 09:58:37 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-27 09:58:37 [main] INFO  BaseClass - ActionDriver instance is created
+2026-10-27 09:58:41 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-27 09:58:41 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-27 09:58:51 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-27 09:58:51 [main] INFO  BaseClass - ActionDriver instance is created
+2026-10-27 09:59:05 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-27 10:08:36 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-27 10:08:50 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-27 10:08:50 [main] INFO  BaseClass - ActionDriver instance is created
+2026-10-27 10:08:58 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-27 10:08:58 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-27 10:09:16 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-27 10:09:16 [main] INFO  BaseClass - ActionDriver instance is created
+2026-10-27 10:09:33 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:27:05 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 07:27:05 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 07:27:05 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 07:27:17 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:27:17 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver instance is created25
+2026-10-28 07:27:19 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:27:19 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:27:19 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 07:27:31 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:27:31 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver instance is created25
+2026-10-28 07:27:36 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:49:55 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 07:49:55 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 07:49:55 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 07:50:07 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:50:07 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread: 23
+2026-10-28 07:50:08 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:50:08 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized for thread: 22
+2026-10-28 07:50:08 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:50:09 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:50:09 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 07:50:10 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:50:10 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized for thread: 21
+2026-10-28 07:50:10 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:50:20 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:50:20 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread: 23
+2026-10-28 07:50:26 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:51:08 [main] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 07:51:17 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:51:17 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 07:51:17 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:51:17 [main] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 07:51:28 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:51:28 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 07:51:29 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:51:29 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 07:51:55 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:51:55 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 07:51:58 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 07:51:58 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 07:52:09 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 07:52:09 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 07:52:15 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:00:55 [main] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 08:01:09 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:01:09 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 08:01:09 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:01:09 [main] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 08:01:18 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:01:18 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 08:01:18 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:01:18 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:01:31 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:01:31 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 08:01:33 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:01:33 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:01:45 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:01:45 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 08:01:51 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:04:45 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 08:04:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 08:04:45 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:04:53 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:04:53 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread: 24
+2026-10-28 08:04:55 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:04:55 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized for thread: 23
+2026-10-28 08:04:55 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:04:55 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:04:55 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:04:57 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:04:57 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized for thread: 22
+2026-10-28 08:04:57 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:05:02 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:05:02 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread: 24
+2026-10-28 08:05:08 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:05:37 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:05:37 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 08:05:37 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 08:05:47 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:05:47 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread: 24
+2026-10-28 08:05:47 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:05:47 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized for thread: 22
+2026-10-28 08:05:48 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:05:50 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:05:50 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:05:50 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:05:50 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized for thread: 23
+2026-10-28 08:05:50 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:06:11 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:06:11 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread: 24
+2026-10-28 08:06:20 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:06:59 [main] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 08:07:07 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:07:07 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 08:07:07 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:07:07 [main] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 08:07:16 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:07:16 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 08:07:16 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:07:16 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:07:24 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:07:24 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 08:07:27 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:07:27 [main] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:07:37 [main] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:07:37 [main] INFO  BaseClass - ActionDriver initialized for thread: 1
+2026-10-28 08:07:42 [main] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:11:48 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 08:11:48 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:11:48 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 08:11:57 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:11:57 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread: 24
+2026-10-28 08:11:57 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:11:57 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:11:57 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized for thread: 23
+2026-10-28 08:11:57 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:11:57 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:11:57 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized for thread: 22
+2026-10-28 08:11:58 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:12:03 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:12:03 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized for thread: 25
+2026-10-28 08:12:04 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:12:09 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:12:45 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - setting up WebDriver for:DummyClass2
+2026-10-28 08:12:45 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:12:45 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - setting up WebDriver for:DummyClass
+2026-10-28 08:12:53 [TestNG-test-OrangeHRMTest-3] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:12:53 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - ActionDriver initialized for thread: 25
+2026-10-28 08:12:53 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - setting up WebDriver for:LoginPageTest
+2026-10-28 08:12:54 [TestNG-test-OrangeHRMTest-1] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:12:54 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - ActionDriver initialized for thread: 23
+2026-10-28 08:12:54 [TestNG-test-OrangeHRMTest-1] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:12:55 [TestNG-test-OrangeHRMTest-3] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:12:56 [TestNG-test-OrangeHRMTest-2] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:12:56 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - ActionDriver initialized for thread: 24
+2026-10-28 08:12:56 [TestNG-test-OrangeHRMTest-2] INFO  BaseClass - WebDriver instsnce is closed
+2026-10-28 08:13:03 [TestNG-test-OrangeHRMTest-4] INFO  ActionDriver - WebDriver Instance is created
+2026-10-28 08:13:03 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - ActionDriver initialized for thread: 26
+2026-10-28 08:13:09 [TestNG-test-OrangeHRMTest-4] INFO  BaseClass - WebDriver instsnce is closed

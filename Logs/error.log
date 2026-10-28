@@ -1,0 +1,4 @@
+2026-10-27 10:08:58 [main] ERROR ActionDriver - text are matching:Invalid credentialsnot equalsInvalid credentials1
+2026-10-28 07:27:19 [TestNG-test-OrangeHRMTest-1] ERROR BaseClass - Unable to quit the driver
+2026-10-28 07:27:19 [TestNG-test-OrangeHRMTest-2] ERROR BaseClass - Unable to quit the driver
+2026-10-28 07:50:08 [TestNG-test-OrangeHRMTest-3] ERROR ActionDriver - text are matching:Invalid credentialsnot equalsInvalid credentials1
