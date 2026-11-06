@@ -1,6 +1,7 @@
 package com.orangehrm.base;
 
 import com.orangehrm.actiondriver.ActionDriver;
+import com.orangehrm.utilies.ExtentManager;
 import com.orangehrm.utilies.LoggerManager;
 import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
@@ -34,6 +35,9 @@ public class BaseClass {
         prop = new Properties();
         FileInputStream file = new FileInputStream("src/main/resources/config.properties");
         prop.load(file);
+
+        //Start the extent report
+//        ExtentManager.getreporter();
     }
 
     @BeforeMethod
@@ -58,10 +62,13 @@ public class BaseClass {
         String browser = prop.getProperty("browser");
         if (browser.equalsIgnoreCase("chrome")) {
             driver.set(new ChromeDriver());
+            ExtentManager.registerDriver(getdriver());
         } else if (browser.equalsIgnoreCase("firefox")) {
             driver.set(new FirefoxDriver());
+            ExtentManager.registerDriver(getdriver());
         } else if (browser.equalsIgnoreCase("edge")) {
             driver.set(new EdgeDriver());
+            ExtentManager.registerDriver(getdriver());
         } else {
             throw new IllegalArgumentException("Browser Not supported:" + browser);
         }
@@ -120,7 +127,7 @@ public class BaseClass {
 
 
     @AfterMethod
-    public void teardown() {
+    public synchronized void teardown() {
         if (getdriver() != null) {
             try {
                 getdriver().quit();
@@ -132,6 +139,7 @@ public class BaseClass {
 //            actionDriver = null;
             driver.remove();
             actionDriver.remove();
+//            ExtentManager.endTest(); This has been implemented in testlistener
         }
     }
 
